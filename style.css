@@ -1,0 +1,116 @@
+.top-container{
+    background-color: #FEFAE0;
+    padding-top: 100px;
+    position: relative;
+}
+div{
+    display: block;
+}
+.top-cloud{
+    position: absolute;
+    left: 63%;
+}
+.title-text{
+    
+}
+h1{
+    font-size: 5rem;
+    font-family: cursive;
+    text-align: center;
+    color: #B99470;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    text-align: center;
+    color: #B99470;
+}
+.span{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 25%;
+}
+.hello{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    color: #B99470;
+    text-align: center;
+}
+.prg{
+    font-family: sans-serif;
+    text-align: center;
+}
+.my-img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+body{
+    text-align: center;
+}
+.skills{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+}
+.design-img{
+    height: 200px;
+}
+.heading{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 1rem;
+    margin: 100px auto 0 auto;
+}
+.hot{
+    font-size: 1.3rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.get{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+}
+.love{
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.contact{
+    background-color: #B99470;
+    color: white;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-family: sans-serif;
+    padding: 10px 15px 10px 15px;
+    margin-top: 2.5%;
+    margin-bottom: 5%;
+}
+.bottom-container{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #B99470;
+}
+.copy{
+    font-size: 0.75em;
+    font-family: sans-serif;
+    color: white;
+    line-height: 2;
+}
+.card{
+    color: white;
+    margin: 10px 20px;
+    font-family: sans-serif;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
